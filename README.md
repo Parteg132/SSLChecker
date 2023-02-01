@@ -1,6 +1,6 @@
 # This is a project for Information and Communications Technology infrastructure management course 2022-2023 on Wroclaw University of Science and Technology
 
-## Project Subject: A simple monitoring tool for ssl certificates (both local and remote) expiry dates with email notifications
+## Project Subject: A simple tool for monitoring ssl certificate's (both local and remote) expiry dates with email notifications
 ## Project Author: Bartosz Maslicki
 
 ### How does it work:
